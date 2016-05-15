@@ -1,0 +1,28 @@
+name: SteelBlueEyesPhotography
+favicon: null
+layout_spectrum: 0.1686859354376793
+typography_spectrum: 0.6112850250210613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.467153248609975
+  lightness: 0.8434939275030047
+  saturation: 0.2640481013804674
+  rhythmicContrast: 0.8387533882632852
+purpose: []
